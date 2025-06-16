@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+﻿// Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
 
@@ -14,7 +14,7 @@ class SCC_UE_HW05_API AMyActor : public AActor
 private:
 	FVector start;
 	int32 evCnt;
-	float totDist;		// float �̾�� �ϴ°� �ƴѰ�?
+	float totDist;		// float 이어야 하는거 아닌가?
 
 public:	
 	// Sets default values for this actor's properties
